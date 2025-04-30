@@ -1,0 +1,46 @@
+# === OS / Editor / Tool Defaults ===
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+
+# === Maven ===
+target/
+*.war
+
+# === AWS ===
+*.pem
+*.crt
+*.key
+*.env
+.aws/
+
+# === Bash scripts temp or backup ===
+*.bak
+*.tmp
+*.sw?
+
+# === Eclipse / IntelliJ / VS Code settings ===
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# === General ===
+node_modules/
+.env
+credentials.json
+
+# === JetBrains IDEs ===
+*.iml
+out/
+
+# === Ignore Terraform/CloudFormation if used later ===
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# === Ignore compiled or package outputs ===
+build/
