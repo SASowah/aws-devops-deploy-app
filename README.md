@@ -26,8 +26,6 @@ aws-java-deploy-project/
 - **CloudWatch Alarms** handle scaling events (CPU-based)
 - **Custom Domain (Namecheap)** pointing to ALB DNS
 
-![Architecture Diagram](Screenshot 2025-04-30 111404.jpg)
-
 ---
 
 ## 📁 Files Included
